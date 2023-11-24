@@ -1,4 +1,4 @@
-# CRUD-ASP.NET MVC
+# CRUD-ASP.NET MVC (.NET 6)
 Crear, lee, actualiza y borra registros de 3 tablas (Empresas, Cargos y Empleados)
 
 Pasos:
